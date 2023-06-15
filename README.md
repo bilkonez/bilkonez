@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilal Ćurović</h1>
-<h3 align="center">Currently learning Soccer Data Analyst role</h3>
+<h3 align="center">Currently learning Software Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilkonez&label=Profile%20views&color=0e75b6&style=flat" alt="bilkonez" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/bilal_curovic" target="blank"><img src="https://img.shields.io/twitter/follow/bilal_curovic?logo=twitter&style=for-the-badge" alt="bilal_curovic" /></a> </p>
 
-- 🔭 I’m currently working on [Soccer data visualisation](https://github.com/bilkonez/starting-analytics)
+- 🔭 I’m currently working on [learning Software Engineering]
 
-- 🌱 I’m currently learning **Tableau, Python**
+- 🌱 I’m currently learning **C++, Python**
 
 - 📫 How to reach me **curovicbilal@gmail.com**
 

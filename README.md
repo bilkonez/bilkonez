@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/bilal_curovic" target="blank"><img src="https://img.shields.io/twitter/follow/bilal_curovic?logo=twitter&style=for-the-badge" alt="bilal_curovic" /></a> </p>
 
-- 🔭 I’m currently working on [learning Software Engineering]
+- 🔭 I’m currently studying Software Engineering
 
 - 🌱 I’m currently learning **C++, Python**
 
